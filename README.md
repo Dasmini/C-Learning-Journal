@@ -24,19 +24,8 @@ Welcome to my learning journal! This repository documents my progress as I learn
 
 ---
 
-## 📂 Repository Structure
-- `basics/` → Small programs (Hello World, loops, functions)
-- `data-structures/` → Implementations of linked lists, stacks, queues
-- `algorithms/` → Sorting, searching, recursion
-- `projects/` → Mini projects (calculator, text-based games, file parser)
-
----
-
 ## 🛠️ Projects
-- **Calculator:** A command-line calculator handling basic operations  
-- **Tic-Tac-Toe:** Text-based game with two-player mode  
-- **File Parser:** Reads and processes structured text files  
-- **Mini Shell (Work in Progress):** A simple command-line shell
+- 
 
 ---
 
