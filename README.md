@@ -6,10 +6,18 @@ Welcome to my learning journal! This repository documents my progress as I learn
 
 ## Topics
 
+### Intermediate Topics
+- Bitwise Operators
+- Pointers
+- Pointer arithmetic
+- Multilevel pointers
+- Dynamic memory allocation
+
 ### Advanced Topics
 - Command line Arguments
 - Environmental Variables
 - Function Pointers
+- Variadic functions
 
 ---
 
