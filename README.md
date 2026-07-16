@@ -18,14 +18,19 @@ Welcome to my learning journal! This repository documents my progress as I learn
 - Environmental Variables
 - Function Pointers
 - Variadic functions
+- Preprocessing
+- Macros
+- Conditional Compilation
+- Diagnostic Preprocessor directives
+- UDT
 
 ---
 
 ## 📅 Timeline & Milestones
 - **Week 1:** Hello World, basic syntax, variables
 - **Week 2:** Control structures (loops, conditionals)
-- **Week 3:** Functions and modular programming
-- **Week 4:** Arrays, strings, and pointers
+- **Week 3:** Arrays, strings, and pointers
+- **Week 4:** Functions and modular programming
 - **Week 5:** Data structures (linked lists, stacks, queues)
 - **Week 6:** File handling and memory management
 - **Week 7+:** Mini projects and advanced concepts
@@ -33,8 +38,8 @@ Welcome to my learning journal! This repository documents my progress as I learn
 ---
 
 ## 🛠️ Projects
-- 
-
+- ![Address Book](https://github.com/Dasmini/Address-Book)
+- ![Dynamic Matrix Calculator](https://github.com/Dasmini/Dynamic-Matrix-Calculator)
 ---
 
 ## 📖 Reflections
