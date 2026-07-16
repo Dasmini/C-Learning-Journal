@@ -2,8 +2,6 @@
 
 Welcome to my learning journal! This repository documents my progress as I learn the C programming language, from the basics to building real projects.
 
->This page is under contruction. Data might be not relevant 🚧
-
 ## Topics
 
 ### Intermediate Topics
